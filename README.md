@@ -72,3 +72,5 @@ sketch_apr8a/
 - **距離閾值**：`if (distance < 15)` 中的 15 cm
 - **延遲時間**：避障後退與轉彎的 `delay()` 長度
 - **每次循環的間隔**：`delay(27)`控制感測頻率與執行節奏
+# 影片
+## https://drive.google.com/file/d/1ln1e2zE4zMIWFNy_MZNeZ3s01wq3PwWL/view?usp=drivesdk
